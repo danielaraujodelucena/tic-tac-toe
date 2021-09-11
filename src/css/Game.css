@@ -1,0 +1,23 @@
+.list-move{
+    text-align: center;
+    float:left;
+    list-style: none;
+    margin: top 15px;
+}
+
+.move{
+    background:black;
+    border: chartreuse solid;
+    color: chartreuse;;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    padding: 0;
+}
+
+.game-info{
+    background: chartreuse;
+    color:black;
+    text-align: center;
+    padding: 10px;
+}

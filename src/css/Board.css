@@ -1,0 +1,11 @@
+.board {
+  max-width: 400px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 270px;
+  border: chartreuse solid;
+}
+
+.board-row{
+  text-align: center;
+}
